@@ -1,0 +1,12 @@
+C:\Users\Yunus PC\Source\Repos\dericiserpsolutions\WapProjTemplate1\BadgeLogo.scale-100.png
+C:\Users\Yunus PC\Source\Repos\dericiserpsolutions\WapProjTemplate1\Images\SplashScreen.scale-200.png
+C:\Users\Yunus PC\Source\Repos\dericiserpsolutions\WapProjTemplate1\Images\LockScreenLogo.scale-200.png
+C:\Users\Yunus PC\Source\Repos\dericiserpsolutions\WapProjTemplate1\Images\Square150x150Logo.scale-200.png
+C:\Users\Yunus PC\Source\Repos\dericiserpsolutions\WapProjTemplate1\Images\Square44x44Logo.scale-200.png
+C:\Users\Yunus PC\Source\Repos\dericiserpsolutions\WapProjTemplate1\Images\Square44x44Logo.targetsize-24_altform-unplated.png
+C:\Users\Yunus PC\Source\Repos\dericiserpsolutions\WapProjTemplate1\Images\Wide310x150Logo.scale-200.png
+C:\Users\Yunus PC\Source\Repos\dericiserpsolutions\WapProjTemplate1\StoreLogo.scale-200.png
+C:\Users\Yunus PC\Source\Repos\dericiserpsolutions\WapProjTemplate1\bin\x64\Debug\resources.pri
+C:\Users\Yunus PC\Source\Repos\dericiserpsolutions\dericiserpsolutions\bin\Debug\dericiserpsolutions.exe
+C:\Users\Yunus PC\Source\Repos\dericiserpsolutions\dericiserpsolutions\bin\Debug\dericiserpsolutions.exe.config
+C:\Users\Yunus PC\Source\Repos\dericiserpsolutions\dericiserpsolutions\bin\Debug\dericiserpsolutions.pdb

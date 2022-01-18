@@ -1,0 +1,6 @@
+MainPackage=C:\Users\Yunus PC\Source\Repos\dericiserpsolutions\WapProjTemplate1\bin\AnyCPU\Debug\WapProjTemplate1_1.0.11.0_AnyCPU_Debug.appx
+SymbolPackage=C:\Users\Yunus PC\Source\Repos\dericiserpsolutions\WapProjTemplate1\obj\Debug\Symbols\WapProjTemplate1_1.0.11.0_AnyCPU_Debug.appxsym
+ResourcePack=C:\Users\Yunus PC\Source\Repos\dericiserpsolutions\WapProjTemplate1\bin\AnyCPU\Debug\WapProjTemplate1_1.0.11.0_scale-100.appx
+ResourcePack=C:\Users\Yunus PC\Source\Repos\dericiserpsolutions\WapProjTemplate1\bin\AnyCPU\Debug\WapProjTemplate1_1.0.11.0_scale-125.appx
+ResourcePack=C:\Users\Yunus PC\Source\Repos\dericiserpsolutions\WapProjTemplate1\bin\AnyCPU\Debug\WapProjTemplate1_1.0.11.0_scale-150.appx
+ResourcePack=C:\Users\Yunus PC\Source\Repos\dericiserpsolutions\WapProjTemplate1\bin\AnyCPU\Debug\WapProjTemplate1_1.0.11.0_scale-400.appx

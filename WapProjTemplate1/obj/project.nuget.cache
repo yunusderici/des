@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LGnUszx4xKqzsA/XQ3tqf+t3aB5gsqC8Ej4o3Tt6IUL0jwZ0p0FUkTMs/C3yqluo19b4m4ZkzZqkG+en6RqbVw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yunus PC\\Source\\Repos\\dericiserpsolutions\\WapProjTemplate1\\WapProjTemplate1.wapproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages\\microsoft.windows.sdk.buildtools\\10.0.19041.8\\microsoft.windows.sdk.buildtools.10.0.19041.8.nupkg.sha512"
+  ],
+  "logs": []
+}
