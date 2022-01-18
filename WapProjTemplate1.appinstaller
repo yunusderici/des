@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
 	Uri="https://yunusderici.github.io/des/WapProjTemplate1.appinstaller"
-	Version="1.0.12.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	Version="1.0.1.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
 	<MainBundle
 		Name="07a1c328-adc8-4c12-872f-8f8a2e1a4306"
-		Version="1.0.12.0"
-		Publisher="CN=Yunus Derici"
-		Uri="https://yunusderici.github.io/des/WapProjTemplate1_1.0.12.0_Debug_Test/WapProjTemplate1_1.0.12.0_AnyCPU_Debug.appxbundle" />
+		Version="1.0.1.0"
+		Publisher="CN=Yunus PC"
+		Uri="https://yunusderici.github.io/des/WapProjTemplate1_1.0.1.0_Debug_Test/WapProjTemplate1_1.0.1.0_AnyCPU_Debug.appxbundle" />
 	<UpdateSettings>
 		<OnLaunch
 			HoursBetweenUpdateChecks="0" />
